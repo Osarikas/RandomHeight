@@ -1,0 +1,4 @@
+name: RandomHeight
+version: '1.0.0'
+main: ru.osarikas.randomHeight.RandomHeight
+api-version: '1.21'
